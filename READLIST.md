@@ -21,6 +21,13 @@
 - [ ] [Evolving Neural Networks Through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
 - [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
+## Global Distribution Systems
+
+- [ ] [The Role of Global Computer Reservation Systems in the Travel Industry Today and in the Future](http://aws.iwi.uni-leipzig.de/em/fileadmin/user_upload/doc/Issues/Volume_06/Issue_02/The_Role_of_Global_Computer_Reservation.pdf)
+- [ ] [High availability, elasticity, and strong consistency for massively parallel scans over relational data](http://link.springer.com/content/pdf/10.1007%2Fs00778-013-0343-9.pdf)
+- [ ] [The Future Of Airline Distribution](http://www.iata.org/whatwedo/stb/Documents/future-airline-distribution-report.pdf)
+- [ ] [The role and potential of Global Distribution System Amadeus for Tourism development at the global level](http://www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fsjas.2013.10.issue-1$002fsjas1301028r$002fsjas1301028r.pdf?t:ac=j$002fsjas.2013.10.issue-1$002fsjas1301028r$002fsjas1301028r.xml)
+
 ## Google
 - [ ] [Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable-osdi06.pdf)
 - [ ] [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)

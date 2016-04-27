@@ -39,8 +39,10 @@
 - [ ] [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf)
 
 ## Others
+- [ ] [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [ ] [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 - [ ] [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+- [ ] [Does Technical Debt Lead to the Rejection of Pull Requests?](http://professores.dcc.ufla.br/~terra/publications_files/2016_sbsi.pdf)
 
 ## The Architecture of Open Source Applications (aosabook)
 

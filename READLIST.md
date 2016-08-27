@@ -1,6 +1,6 @@
 ## Data Structures/Algorithms
 
-- [ ] [A Java fork/join framework](http://gee.cs.oswego.edu/dl/papers/fj.pdf)
+- [x] [A Java fork/join framework](http://gee.cs.oswego.edu/dl/papers/fj.pdf)
 - [ ] [An Improved Data Stream Summary: The Count-Min Sketch and its Applications](https://www.cse.unsw.edu.au/~cs9314/07s1/lectures/Lin_CS9314_References/cm-latin.pdf)
 - [ ] [An Optimal Algorithm for Selection in a Min-Heap](http://www.sciencedirect.com/science/article/pii/S0890540183710308)
 - [ ] [Cache-Oblivious Streaming B-trees](http://supertech.csail.mit.edu/papers/sbtree.pdf)
@@ -36,13 +36,13 @@
 - [ ] [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf)
 - [ ] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
 - [ ] [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
-- [ ] [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf)
+- [x] [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf)
 
 ## Others
 - [x] [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [x] [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
-- [ ] [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
-- [ ] [Does Technical Debt Lead to the Rejection of Pull Requests?](http://professores.dcc.ufla.br/~terra/publications_files/2016_sbsi.pdf)
+- [x] [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+- [x] [Does Technical Debt Lead to the Rejection of Pull Requests?](http://professores.dcc.ufla.br/~terra/publications_files/2016_sbsi.pdf)
 
 ## The Architecture of Open Source Applications (aosabook)
 

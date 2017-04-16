@@ -29,13 +29,13 @@
 - [ ] [The role and potential of Global Distribution System Amadeus for Tourism development at the global level](http://www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fsjas.2013.10.issue-1$002fsjas1301028r$002fsjas1301028r.pdf?t:ac=j$002fsjas.2013.10.issue-1$002fsjas1301028r$002fsjas1301028r.xml)
 
 ## Google
-- [ ] [Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable-osdi06.pdf)
-- [ ] [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
-- [ ] [HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality Estimation Algorithm](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf)
-- [ ] [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf)
-- [ ] [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf)
-- [ ] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
-- [ ] [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+- [x] [Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable-osdi06.pdf)
+- [x] [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
+- [x] [HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality Estimation Algorithm](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf)
+- [x] [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf)
+- [x] [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf)
+- [x] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
+- [x] [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 - [x] [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf)
 
 ## Others
@@ -43,6 +43,7 @@
 - [x] [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 - [x] [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
 - [x] [Does Technical Debt Lead to the Rejection of Pull Requests?](http://professores.dcc.ufla.br/~terra/publications_files/2016_sbsi.pdf)
+- [x] [Optimizing unit test execution in large software programs using dependency analysis](https://people.csail.mit.edu/nickolai/papers/kim-tao.pdf)
 
 ## The Architecture of Open Source Applications (aosabook)
 

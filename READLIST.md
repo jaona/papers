@@ -7,6 +7,7 @@
 - [ ] [Computing Extremely Accurate Quantiles using t-Digests](https://raw.githubusercontent.com/tdunning/t-digest/master/docs/t-digest-paper/histo.pdf)
 - [ ] [Cuckoo Filter: Practically Better Than Bloom](http://www.pdl.cmu.edu/PDL-FTP/FS/cuckoo-conext2014.pdf)
 - [ ] [Effective Computation of Biased Quantiles over Data Streams](http://www.cs.rutgers.edu/~muthu/bquant.pdf)
+- [ ] [Genetic Algorithms for the Travelling Salesman Problem: A Review of Representations and Operators.](http://www.dca.fee.unicamp.br/~gomide/courses/EA072/artigos/Genetic_Algorithm_TSPR_eview_Larranaga_1999.pdf)
 - [ ] [HyperLogLog and MinHash A Union for Intersections](http://tech.adroll.com/media/hllminhash.pdf)
 - [ ] [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
 - [ ] [Random Sampling with a Reservoir](https://www.cs.umd.edu/~samir/498/vitter.pdf)

@@ -22,6 +22,10 @@
 - [ ] [Evolving Neural Networks Through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
 - [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
+## Natural Language Processing
+
+- [ ] [Natural Language Processing](https://www.cl.cam.ac.uk/teaching/2002/NatLangProc/revised.pdf) -- Lecture Notes by Ann Copestake, Cambridge University, 2004.
+
 ## Global Distribution Systems
 
 - [ ] [The Role of Global Computer Reservation Systems in the Travel Industry Today and in the Future](http://aws.iwi.uni-leipzig.de/em/fileadmin/user_upload/doc/Issues/Volume_06/Issue_02/The_Role_of_Global_Computer_Reservation.pdf)

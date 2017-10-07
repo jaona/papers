@@ -7,7 +7,7 @@
 - [ ] [Computing Extremely Accurate Quantiles using t-Digests](https://raw.githubusercontent.com/tdunning/t-digest/master/docs/t-digest-paper/histo.pdf)
 - [ ] [Cuckoo Filter: Practically Better Than Bloom](http://www.pdl.cmu.edu/PDL-FTP/FS/cuckoo-conext2014.pdf)
 - [ ] [Effective Computation of Biased Quantiles over Data Streams](http://www.cs.rutgers.edu/~muthu/bquant.pdf)
-- [ ] [Genetic Algorithms for the Travelling Salesman Problem: A Review of Representations and Operators.](http://www.dca.fee.unicamp.br/~gomide/courses/EA072/artigos/Genetic_Algorithm_TSPR_eview_Larranaga_1999.pdf)
+- [x] [Genetic Algorithms for the Travelling Salesman Problem: A Review of Representations and Operators.](http://www.dca.fee.unicamp.br/~gomide/courses/EA072/artigos/Genetic_Algorithm_TSPR_eview_Larranaga_1999.pdf)
 - [ ] [HyperLogLog and MinHash A Union for Intersections](http://tech.adroll.com/media/hllminhash.pdf)
 - [ ] [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
 - [ ] [Random Sampling with a Reservoir](https://www.cs.umd.edu/~samir/498/vitter.pdf)
@@ -28,12 +28,14 @@
 
 ## Global Distribution Systems
 
+- [ ] [Air Travel Hacking](https://conference.hitb.org/hitbsecconf2011kul/materials/D2T1%20-%20Hendrik%20Scholz%20-%20Air%20Travel%20Hacking.pdf)
 - [ ] [The Role of Global Computer Reservation Systems in the Travel Industry Today and in the Future](http://aws.iwi.uni-leipzig.de/em/fileadmin/user_upload/doc/Issues/Volume_06/Issue_02/The_Role_of_Global_Computer_Reservation.pdf)
 - [ ] [High availability, elasticity, and strong consistency for massively parallel scans over relational data](http://link.springer.com/content/pdf/10.1007%2Fs00778-013-0343-9.pdf)
 - [ ] [The Future Of Airline Distribution](http://www.iata.org/whatwedo/stb/Documents/future-airline-distribution-report.pdf)
 - [ ] [The role and potential of Global Distribution System Amadeus for Tourism development at the global level](http://www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fsjas.2013.10.issue-1$002fsjas1301028r$002fsjas1301028r.pdf?t:ac=j$002fsjas.2013.10.issue-1$002fsjas1301028r$002fsjas1301028r.xml)
 
 ## Google
+
 - [x] [Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable-osdi06.pdf)
 - [x] [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 - [x] [HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality Estimation Algorithm](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf)
@@ -44,6 +46,7 @@
 - [x] [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf)
 
 ## Others
+
 - [x] [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [x] [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 - [x] [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)

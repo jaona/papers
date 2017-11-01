@@ -47,6 +47,7 @@
 
 ## Others
 
+- [x] [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
 - [x] [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [x] [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 - [x] [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)

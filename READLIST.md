@@ -44,6 +44,7 @@
 - [x] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
 - [x] [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 - [x] [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf)
+- [ ] [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 
 ## Others
 

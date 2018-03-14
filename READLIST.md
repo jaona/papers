@@ -49,11 +49,16 @@
 ## Others
 
 - [x] [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
+- [ ] [Binary Compatibility of Shared Libraries Implemented in C++ on GNU/Linux Systems](http://syrcose.ispras.ru/2009/files/02_paper.pdf)
 - [x] [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [x] [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 - [x] [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
 - [x] [Does Technical Debt Lead to the Rejection of Pull Requests?](http://professores.dcc.ufla.br/~terra/publications_files/2016_sbsi.pdf)
 - [x] [Optimizing unit test execution in large software programs using dependency analysis](https://people.csail.mit.edu/nickolai/papers/kim-tao.pdf)
+
+## C++
+
+- [ ] [Const Correctness](https://isocpp.org/wiki/faq/const-correctness) -- The definitive article about ``const``.
 
 ## The Architecture of Open Source Applications (aosabook)
 

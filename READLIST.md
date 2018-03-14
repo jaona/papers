@@ -46,6 +46,65 @@
 - [x] [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf)
 - [ ] [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 
+## Facebook Research
+
+Curated from [research.fb.com](http://research.fb.com). :scream:
+
+- [ ] A Hitchhiker’s Guide to Fast and Efficient Data Reconstruction in Erasure-coded Data Centers
+- [ ] A Roadmap Towards Machine Intelligence
+- [ ] A Solution to the Network Challenges of Data Recovery in Erasure-coded Distributed Storage Systems: A Study on the Facebook Warehouse Cluster
+- [ ] Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour
+- [ ] An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance
+- [ ] An Implementation of a Randomized Algorithm for Principal Component Analysis
+- [ ] Apache Hadoop goes realtime at Facebook
+- [ ] Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective
+- [ ] Arrival and Departure Dynamics in Social Networks
+- [ ] Bootstrapping Data Arrays of Arbitrary Order
+- [ ] Continuous Deployment at Facebook and OANDA
+- [ ] Data warehousing and analytics infrastructure at Facebook.
+- [ ] Design and Analysis of Benchmarking Experiments for Distributed Internet Services
+- [ ] Designing and Deploying Online Field Experiments
+- [ ] DeTail: Reducing the Flow Completion Time Tail in Datacenter Networks
+- [ ] Development and Deployment at Facebook
+- [ ] Dynamo: Facebook’s Data Center-Wide Power Management System
+- [ ] Efficient Large-Scale Multi-Modal Classification
+- [ ] f4: Facebook’s Warm BLOB Storage System
+- [ ] Facebook’s Data Center Network Architecture
+- [ ] Fast Database Restarts at Facebook
+- [ ] FATE and DESTINI: A Framework for Cloud Recovery Testing
+- [ ] Find Me If You Can: Improving Geographical Prediction with Social and Spatial Proximity
+- [ ] Forecasting at Scale
+- [ ] Graph Cluster Randomization: Network Exposure to Multiple Universes
+- [ ] High-efficiency server design
+- [ ] High-Resolution Measurement of Data Center Microbursts
+- [ ] Holistic Configuration Management at Facebook
+- [ ] Inside the Social Network’s (Datacenter) Network
+- [ ] IVD: Automatic Learning and Enforcement of Authorization Rules in Online Social Networks
+- [ ] Job Scheduling for Multi-User MapReduce Clusters
+- [ ] Key-Value Memory Networks for Directly Reading Documents
+- [ ] Learning Simple Algorithms from Examples
+- [ ] Many-core key-value store
+- [ ] Network Bucket Testing
+- [ ] Performance or Capacity
+- [ ] Personalized Collaborative Clustering
+- [ ] Predicting Memcache Throughput using Simulation and Modeling
+- [ ] Realtime Data Processing at Facebook
+- [ ] Rethinking Concurrency Control for In-Memory OLAP DBMSs
+- [ ] Social Hash Partitioner: A Scalable Distributed Hypergraph Partitioner
+- [ ] Spinner: Scalable Graph Partitioning in the Cloud
+- [ ] Storage Infrastructure Behind Facebook Messages: Using HBase at Scale
+- [ ] Synergy of Monotonic Rules
+- [ ] TAO: Facebook’s Distributed Data Store for the Social Graph
+- [ ] The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services
+- [ ] The Shortest Path is not Always a Straight Line. Leveraging Semi-Metricity in Graph Analysis.
+- [ ] There is no Fork: an Abstraction for Efficient, Concurrent, and Concise Data Access
+- [ ] Thermal Design in the Open Compute Datacenter
+- [ ] Unicorn: A System for Searching the Social Graph
+- [ ] Unsupervised Learning of Edges
+- [ ] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+- [ ] Weighted Hashing for Fast Large Scale Similarity Search
+- [ ] Workload Analysis of a Large-Scale Key-Value Store
+
 ## Others
 
 - [x] [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
@@ -56,7 +115,7 @@
 - [x] [Does Technical Debt Lead to the Rejection of Pull Requests?](http://professores.dcc.ufla.br/~terra/publications_files/2016_sbsi.pdf)
 - [x] [Optimizing unit test execution in large software programs using dependency analysis](https://people.csail.mit.edu/nickolai/papers/kim-tao.pdf)
 
-## C++
+### C++
 
 - [ ] [Const Correctness](https://isocpp.org/wiki/faq/const-correctness) -- The definitive article about ``const``.
 

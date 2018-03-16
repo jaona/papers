@@ -29,10 +29,10 @@
 ## Global Distribution Systems
 
 - [ ] [Air Travel Hacking](https://conference.hitb.org/hitbsecconf2011kul/materials/D2T1%20-%20Hendrik%20Scholz%20-%20Air%20Travel%20Hacking.pdf)
-- [ ] [The Role of Global Computer Reservation Systems in the Travel Industry Today and in the Future](http://aws.iwi.uni-leipzig.de/em/fileadmin/user_upload/doc/Issues/Volume_06/Issue_02/The_Role_of_Global_Computer_Reservation.pdf)
 - [x] [High availability, elasticity, and strong consistency for massively parallel scans over relational data](http://link.springer.com/content/pdf/10.1007%2Fs00778-013-0343-9.pdf)
 - [x] [The Future Of Airline Distribution](https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ndc-future-airline-distribution-report.pdf)
 - [ ] [The role and potential of Global Distribution System Amadeus for Tourism development at the global level](http://www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fsjas.2013.10.issue-1$002fsjas1301028r$002fsjas1301028r.pdf?t:ac=j$002fsjas.2013.10.issue-1$002fsjas1301028r$002fsjas1301028r.xml)
+- [ ] [The Role of Global Computer Reservation Systems in the Travel Industry Today and in the Future](http://aws.iwi.uni-leipzig.de/em/fileadmin/user_upload/doc/Issues/Volume_06/Issue_02/The_Role_of_Global_Computer_Reservation.pdf)
 
 ## Google
 
@@ -48,7 +48,7 @@
 
 ## Facebook Research
 
-Curated from [research.fb.com](http://research.fb.com). :scream:
+Curated from [research.fb.com](http://research.fb.com) (:scream:). Research partially or entirely conducted at Facebook.
 
 - [ ] A Hitchhiker’s Guide to Fast and Efficient Data Reconstruction in Erasure-coded Data Centers
 - [ ] A Roadmap Towards Machine Intelligence

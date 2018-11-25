@@ -131,3 +131,9 @@ Curated from [research.fb.com](http://research.fb.com) (:scream:). Research part
 - [ ] [Parsing XML at the Speed of Light](http://aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
 - [ ] [Applying Optimization Principle Patterns to Component Deployment and Configuration Tools](http://aosabook.org/en/posa/applying-optimization-principle-patterns-to-component-deployment-and-configuration-tools.html)
 - [ ] [Secrets of Mobile Network Performance](http://aosabook.org/en/posa/secrets-of-mobile-network-performance.html)
+
+## Management and Leadership
+
+- [x] [What Great Managers Do](https://hbr.org/2005/03/what-great-managers-do)
+- [x] [Decoding leadership: What really matters](https://www.mckinsey.com/featured-insights/leadership/decoding-leadership-what-really-matters)
+- [ ] [Google re:Work](https://rework.withgoogle.com)
